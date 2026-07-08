@@ -11,7 +11,7 @@ training data** — so it can audit any trained segmentation or outcome-predicti
 > realistic scanner variation?**
 
 ## Components
-- **FIDELIS-Calibrate** — post-hoc calibration assessment (Adaptive-ECE / ΔA-ECE) and recalibration maps.
+- **FIDELIS-Calibrate** — post-hoc calibration assessment (Anatomy-Aware ECE / ΔA-ECE) and recalibration maps.
 - **FIDELIS-Robust** — stability under simulated scanner / dose / protocol variation.
 - **Clinical Decision Impact (CDI)** — maps reliability failures to potential changes in a clinical decision.
 
